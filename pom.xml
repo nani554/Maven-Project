@@ -27,6 +27,6 @@
   </dependencies>
 	
   <build>
-    
+    <finalName>mavenbuild</finalName>
   </build>
 </project>
